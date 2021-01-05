@@ -10,6 +10,9 @@ logs
 
 node_modules
 bower_components
+.vscode
+.eslintcache
+package-lock.json
 
 *.sublime*
 
